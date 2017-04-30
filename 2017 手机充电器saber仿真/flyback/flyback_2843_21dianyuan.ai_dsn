@@ -1,0 +1,31 @@
+[ai_design_14]
+[uniq_id]
+0
+[resources]
+<font>
+<color>
+<linestyle>
+<image>
+<layer>
+{electrical}
+{vis}
+{borderannotation}
+{probe}
+<style>
+[sch_type]
+<inst>
+flyback_2843_21dianyuan
+/
+sch
+@sheet sheet1
+x x_11338_ 20  {-9120 1280 -9168 336 -7520 8320 3680 3840 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr v1 {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear (V) {-6.1007804106339u 5.3531861305237} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11339_ 20  {-9120 1120 -9120 2560 -21280 8480 -9280 4000 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr r.r1/i(p) {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear {i(p)    } {-1.2201561503389u 1.0706372261047} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 through}
+x x_11340_ 20  {-15040 -2080 -15680 -800 -30720 4000 -21920 480 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr drv {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear (V) {-1.0370461940765 23.357032775879} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11365_ 20  {-17252 -3216 -17509 -2350 -30710 -652 -22058 -5138 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr vcomp {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear (V) {0.69876611232758 3.044224023819} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11366_ 20  {-13760 0 -12320 960 -30560 8320 -21760 4800 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr mtb4n80e.mtb4n80e1/d {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear {d    } {-0.63933777809143 726.60998535156} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11371_ 20  {-14880 -3840 -14720 1120 -7200 3200 3680 -1440 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr c.c9/p {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear {p    } {-0.0066854651086032 0.65683388710022} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11373_ 20  {-11485 -3370 -7800 -3210 -7319 -1768 3735 -5613 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr n_10892 {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear (V) {-11.578912562982u 9.8362464904785} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+x x_11375_ 20  {-11520 -3680 -11520 -2880 -30880 -6720 -15360 -12640 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr tl431c.tl431c1/i(cathode) {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear {i(cathode)    } {-2.4715396829827p 0.016847359016538} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 through}
+x x_11380_ 20  {-10880 -4160 -7248 -5312 -12640 -6560 3840 -12640 } {GrProbe:CreateProc GrProbe:BindProc GrProbe:CoordsProc GrProbe:DeleteProc GrProbe:MoveProc GrProbe:SelectProc GrProbe:DeselectProc GrProbe:HideProc GrProbe:ShowProc GrProbe:SaveProc} {flyback_2843_21dianyuan.tr n_10893 {} {0 0 0 0 real(y)} {{AxisY(0,0) AxisX(0)} {{linear (V) {-211.42442710698u 2.5018684864044} auto linear t(s) {0.0 0.021999999880791} auto}}} {{-family {OF Helvetica} -size 12.67507 -weight normal -slant roman -underline 0 -overstrike 0 -type outline} no 1} 0 across}
+[simulator_type]
+saber
